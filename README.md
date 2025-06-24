@@ -1,4 +1,5 @@
 # Ultra Moon HD
+# Requires Azahar/Citra Emulator
 
 An HD texture pack for Pokémon Ultra Moon based on the pack from Volya.
 
